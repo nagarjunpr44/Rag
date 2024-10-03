@@ -1,0 +1,9 @@
+
+langchain
+langchain-community
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pypdf
+flask
+faiss-cpu
+torch==2.4.1
