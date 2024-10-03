@@ -1,10 +1,10 @@
-# Conversational AI with PDF Retrieval System
+# Conversational AI with PDF Retrieval System🤖📄
 
 ## Overview
 This project is a Flask-based web application that enables users to interact with PDF documents using conversational AI. It utilizes Langchain and FAISS for efficient document retrieval and processing.
 
 ## Key Features
-- **PDF Upload**: Users can upload PDF files for processing.
+- **PDF Upload**: Users can upload PDF files for processing.📤
 - **Conversational Queries**: Ask questions related to the content of the uploaded PDFs.
 - **Fast Retrieval**: Uses FAISS for quick access to document embeddings.
 - **LLM Integration**: Leverages a large language model (LLaMA-2 via CTransformers) for accurate responses.
